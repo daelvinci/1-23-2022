@@ -1,0 +1,108 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.first-div{
+    text-align: center;
+    padding: 10.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+
+    width: 100%;
+    background-color: #0d6efd;;
+}
+
+.first-div h1{
+    font-size: 2.5rem;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:aliceblue;
+    margin-bottom: 15px;
+}
+
+.first-div p{
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-top: 0;
+    margin-bottom: 1rem; 
+    color:rgb(232, 230, 230)
+}
+
+.first-div button{
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+    font-weight: 400;
+    border-color: aliceblue;
+}
+
+.second-div{
+    padding-top: 16rem;
+    padding-bottom: 17rem;
+    width: 60%;
+    margin: auto;
+}
+
+.second-div h1{
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 900;
+    
+}
+
+.second-div p{
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: rgb(64, 65, 65);
+}
+
+.second-div ul{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+}
+ 
+.second-div li{
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.second-div{
+    padding-top: 16rem;
+    padding-bottom: 17rem;
+    width: 60%;
+    margin: auto;
+}
+
+.thirdcontent{
+    margin-top: 24rem;
+}
+
+.thirdcontent h1{
+    font-size: 2.5rem;
+}
+
+.thirdcontent p{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.fourthcontent{
+    margin-top: 24rem;
+
+}
+
+.fourthcontent h1{
+    font-size: 2.5rem;
+}
+
+.fourthcontent p{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
